@@ -1,5 +1,5 @@
 # SMOOTH
-Smoothing (suavização) de geometrias do tipo "Linestrings"
+Smoothing (suavização) de geometrias do tipo "Linestrings" (Generalização)
 
 # Exemplos de chamadas de funções (batch):
 ```batch
