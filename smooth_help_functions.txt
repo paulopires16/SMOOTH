@@ -1,0 +1,10 @@
+help function from smooth
+
+Func: smooth 
+Desc: efetua o smooth/suavizacao (generalizacao) de geometrias do tipo linha.
+Parm: distancia_densify distancia_simplify_opcional
+
+
+...Done!
+
+Tempo de execucao: 0:00:00.104000
